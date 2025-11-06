@@ -1,0 +1,1409 @@
+{
+  "matches": [
+    {
+      "matchId": "zcu7IhBk",
+      "country": "Denmark",
+      "league": "Superliga",
+      "season": "Superliga 2025/2026",
+      "seasonStartYear": 2025,
+      "seasonEndYear": 2026,
+      "date": "2025-11-03T12:00:00Z",
+      "status": "FINISHED",
+      "homeTeamId": "midtjylland",
+      "homeTeamName": "Midtjylland",
+      "homeTeamImage": "https://static.flashscore.com/res/image/data/YeEEjOEa-nw9UOsY3.png",
+      "homeGoals": 1,
+      "awayTeamId": "aarhus",
+      "awayTeamName": "Aarhus",
+      "awayTeamImage": "https://static.flashscore.com/res/image/data/MyPsdDHG-hGuhahGg.png",
+      "awayGoals": 1,
+      "referee": "Krogh M. (Den)",
+      "venue": "MCH Arena (Herning)",
+      "capacity": 12148,
+      "incidents": [
+        {
+          "id": 1,
+          "half": "1st Half",
+          "minute": 2,
+          "minuteDisplay": "2'",
+          "isStoppageTime": false,
+          "teamId": "midtjylland",
+          "teamName": "Midtjylland",
+          "teamType": "home",
+          "type": "Card",
+          "cardType": "Yellow",
+          "player": "Billing P."
+        },
+        {
+          "id": 2,
+          "half": "1st Half",
+          "minute": 27,
+          "minuteDisplay": "27'",
+          "isStoppageTime": false,
+          "teamId": "midtjylland",
+          "teamName": "Midtjylland",
+          "teamType": "home",
+          "type": "Card",
+          "cardType": "Yellow",
+          "player": "Franculino"
+        },
+        {
+          "id": 3,
+          "half": "1st Half",
+          "minute": 35,
+          "minuteDisplay": "35'",
+          "isStoppageTime": false,
+          "teamId": "aarhus",
+          "teamName": "Aarhus",
+          "teamType": "away",
+          "type": "Goal",
+          "player": "Bech T.",
+          "assist": "Yakob K.",
+          "homeGoalsAfter": 0,
+          "awayGoalsAfter": 1
+        },
+        {
+          "id": 4,
+          "half": "2nd Half",
+          "minute": 46,
+          "minuteDisplay": "46'",
+          "isStoppageTime": false,
+          "teamId": "midtjylland",
+          "teamName": "Midtjylland",
+          "teamType": "home",
+          "type": "Substitution",
+          "player": "Mbabu K.",
+          "outPlayer": "Simsir A."
+        },
+        {
+          "id": 5,
+          "half": "2nd Half",
+          "minute": 46,
+          "minuteDisplay": "46'",
+          "isStoppageTime": false,
+          "teamId": "midtjylland",
+          "teamName": "Midtjylland",
+          "teamType": "home",
+          "type": "Substitution",
+          "player": "Gogorza M.",
+          "outPlayer": "Junior Brumado"
+        },
+        {
+          "id": 6,
+          "half": "2nd Half",
+          "minute": 47,
+          "minuteDisplay": "47'",
+          "isStoppageTime": false,
+          "teamId": "midtjylland",
+          "teamName": "Midtjylland",
+          "teamType": "home",
+          "type": "Card",
+          "cardType": "Yellow",
+          "player": "Erlic M."
+        },
+        {
+          "id": 7,
+          "half": "2nd Half",
+          "minute": 48,
+          "minuteDisplay": "48'",
+          "isStoppageTime": false,
+          "teamId": "midtjylland",
+          "teamName": "Midtjylland",
+          "teamType": "home",
+          "type": "Card",
+          "cardType": "Yellow",
+          "player": "Tullberg M.",
+          "detail": "Not on pitch"
+        },
+        {
+          "id": 8,
+          "half": "2nd Half",
+          "minute": 50,
+          "minuteDisplay": "50'",
+          "isStoppageTime": false,
+          "teamId": "midtjylland",
+          "teamName": "Midtjylland",
+          "teamType": "home",
+          "type": "Card",
+          "cardType": "Yellow",
+          "player": "Castillo D."
+        },
+        {
+          "id": 9,
+          "half": "2nd Half",
+          "minute": 58,
+          "minuteDisplay": "58'",
+          "isStoppageTime": false,
+          "teamId": "aarhus",
+          "teamName": "Aarhus",
+          "teamType": "away",
+          "type": "Card",
+          "cardType": "Yellow",
+          "player": "Mortensen P."
+        },
+        {
+          "id": 10,
+          "half": "2nd Half",
+          "minute": 66,
+          "minuteDisplay": "66'",
+          "isStoppageTime": false,
+          "teamId": "aarhus",
+          "teamName": "Aarhus",
+          "teamType": "away",
+          "type": "Card",
+          "cardType": "Yellow",
+          "player": "Carstensen R."
+        },
+        {
+          "id": 11,
+          "half": "2nd Half",
+          "minute": 69,
+          "minuteDisplay": "69'",
+          "isStoppageTime": false,
+          "teamId": "midtjylland",
+          "teamName": "Midtjylland",
+          "teamType": "home",
+          "type": "Substitution",
+          "player": "Cho Gue-Sung",
+          "outPlayer": "Erlic M."
+        },
+        {
+          "id": 12,
+          "half": "2nd Half",
+          "minute": 78,
+          "minuteDisplay": "78'",
+          "isStoppageTime": false,
+          "teamId": "aarhus",
+          "teamName": "Aarhus",
+          "teamType": "away",
+          "type": "Substitution",
+          "player": "Jensen-Abbew J.",
+          "outPlayer": "Poulsen N."
+        },
+        {
+          "id": 13,
+          "half": "2nd Half",
+          "minute": 78,
+          "minuteDisplay": "78'",
+          "isStoppageTime": false,
+          "teamId": "aarhus",
+          "teamName": "Aarhus",
+          "teamType": "away",
+          "type": "Substitution",
+          "player": "Tchamche S.",
+          "outPlayer": "Dalsgaard H.",
+          "detail": "Injury"
+        },
+        {
+          "id": 14,
+          "half": "2nd Half",
+          "minute": 80,
+          "minuteDisplay": "80'",
+          "isStoppageTime": false,
+          "teamId": "midtjylland",
+          "teamName": "Midtjylland",
+          "teamType": "home",
+          "type": "Substitution",
+          "player": "Byskov V.",
+          "outPlayer": "Castillo D."
+        },
+        {
+          "id": 15,
+          "half": "2nd Half",
+          "minute": 80,
+          "minuteDisplay": "80'",
+          "isStoppageTime": false,
+          "teamId": "midtjylland",
+          "teamName": "Midtjylland",
+          "teamType": "home",
+          "type": "Substitution",
+          "player": "Paulinho",
+          "outPlayer": "Bak V."
+        },
+        {
+          "id": 16,
+          "half": "2nd Half",
+          "minute": 81,
+          "minuteDisplay": "81'",
+          "isStoppageTime": false,
+          "teamId": "midtjylland",
+          "teamName": "Midtjylland",
+          "teamType": "home",
+          "type": "Goal",
+          "player": "Franculino",
+          "homeGoalsAfter": 1,
+          "awayGoalsAfter": 1
+        },
+        {
+          "id": 17,
+          "half": "2nd Half",
+          "minute": 87,
+          "minuteDisplay": "87'",
+          "isStoppageTime": false,
+          "teamId": "aarhus",
+          "teamName": "Aarhus",
+          "teamType": "away",
+          "type": "Substitution",
+          "player": "Emmery F.",
+          "outPlayer": "Yakob K."
+        },
+        {
+          "id": 18,
+          "half": "2nd Half",
+          "minute": 87,
+          "minuteDisplay": "87'",
+          "isStoppageTime": false,
+          "teamId": "aarhus",
+          "teamName": "Aarhus",
+          "teamType": "away",
+          "type": "Substitution",
+          "player": "Solbakken M.",
+          "outPlayer": "Carstensen R."
+        },
+        {
+          "id": 19,
+          "half": "2nd Half",
+          "minute": 90,
+          "minuteDisplay": "90+1'",
+          "isStoppageTime": true,
+          "stoppageMinute": 1,
+          "teamId": "aarhus",
+          "teamName": "Aarhus",
+          "teamType": "away",
+          "type": "Card",
+          "cardType": "Yellow",
+          "player": "Bech T."
+        },
+        {
+          "id": 20,
+          "half": "2nd Half",
+          "minute": 90,
+          "minuteDisplay": "90+5'",
+          "isStoppageTime": true,
+          "stoppageMinute": 5,
+          "teamId": "aarhus",
+          "teamName": "Aarhus",
+          "teamType": "away",
+          "type": "Substitution",
+          "player": "Badji Y.",
+          "outPlayer": "Bech T."
+        }
+      ],
+      "statistics": {
+        "fullTime": [
+          {
+            "category": "Expected Goals (xG)",
+            "section": "Shots",
+            "home": {
+              "value": 0.92
+            },
+            "away": {
+              "value": 0.84
+            }
+          },
+          {
+            "category": "xG on target (xGOT)",
+            "section": "Shots",
+            "home": {
+              "value": 1.27
+            },
+            "away": {
+              "value": 1.2
+            }
+          },
+          {
+            "category": "Total shots",
+            "section": "Shots",
+            "home": {
+              "value": 17
+            },
+            "away": {
+              "value": 12
+            }
+          },
+          {
+            "category": "Shots on target",
+            "section": "Shots",
+            "home": {
+              "value": 4
+            },
+            "away": {
+              "value": 4
+            }
+          },
+          {
+            "category": "Shots off target",
+            "section": "Shots",
+            "home": {
+              "value": 6
+            },
+            "away": {
+              "value": 6
+            }
+          },
+          {
+            "category": "Blocked Shots",
+            "section": "Shots",
+            "home": {
+              "value": 7
+            },
+            "away": {
+              "value": 2
+            }
+          },
+          {
+            "category": "Shots inside the Box",
+            "section": "Shots",
+            "home": {
+              "value": 11
+            },
+            "away": {
+              "value": 9
+            }
+          },
+          {
+            "category": "Shots outside the Box",
+            "section": "Shots",
+            "home": {
+              "value": 6
+            },
+            "away": {
+              "value": 3
+            }
+          },
+          {
+            "category": "Hit the Woodwork",
+            "section": "Shots",
+            "home": {
+              "value": 0
+            },
+            "away": {
+              "value": 0
+            }
+          },
+          {
+            "category": "Headed Goals",
+            "section": "Shots",
+            "home": {
+              "value": 0
+            },
+            "away": {
+              "value": 0
+            }
+          },
+          {
+            "category": "Big Chances",
+            "section": "Attack",
+            "home": {
+              "value": 0
+            },
+            "away": {
+              "value": 0
+            }
+          },
+          {
+            "category": "Corner Kicks",
+            "section": "Attack",
+            "home": {
+              "value": 10
+            },
+            "away": {
+              "value": 5
+            }
+          },
+          {
+            "category": "Touches in opposition box",
+            "section": "Attack",
+            "home": {
+              "value": 23
+            },
+            "away": {
+              "value": 23
+            }
+          },
+          {
+            "category": "Accurate through passes",
+            "section": "Attack",
+            "home": {
+              "value": 0
+            },
+            "away": {
+              "value": 1
+            }
+          },
+          {
+            "category": "Offsides",
+            "section": "Attack",
+            "home": {
+              "value": 2
+            },
+            "away": {
+              "value": 2
+            }
+          },
+          {
+            "category": "Free Kicks",
+            "section": "Attack",
+            "home": {
+              "value": 16
+            },
+            "away": {
+              "value": 10
+            }
+          },
+          {
+            "category": "Ball Possession",
+            "section": "Passes",
+            "home": {
+              "percentage": 65
+            },
+            "away": {
+              "percentage": 35
+            }
+          },
+          {
+            "category": "Passes",
+            "section": "Passes",
+            "home": {
+              "percentage": 80,
+              "successful": 314,
+              "total": 391
+            },
+            "away": {
+              "percentage": 64,
+              "successful": 137,
+              "total": 213
+            }
+          },
+          {
+            "category": "Long passes",
+            "section": "Passes",
+            "home": {
+              "percentage": 45,
+              "successful": 25,
+              "total": 56
+            },
+            "away": {
+              "percentage": 20,
+              "successful": 10,
+              "total": 50
+            }
+          },
+          {
+            "category": "Passes in final third",
+            "section": "Passes",
+            "home": {
+              "percentage": 64,
+              "successful": 63,
+              "total": 99
+            },
+            "away": {
+              "percentage": 52,
+              "successful": 43,
+              "total": 82
+            }
+          },
+          {
+            "category": "Crosses",
+            "section": "Passes",
+            "home": {
+              "percentage": 8,
+              "successful": 2,
+              "total": 25
+            },
+            "away": {
+              "percentage": 27,
+              "successful": 3,
+              "total": 11
+            }
+          },
+          {
+            "category": "Expected assists (xA)",
+            "section": "Passes",
+            "home": {
+              "value": 0.57
+            },
+            "away": {
+              "value": 0.6
+            }
+          },
+          {
+            "category": "Throw-ins",
+            "section": "Passes",
+            "home": {
+              "value": 21
+            },
+            "away": {
+              "value": 26
+            }
+          },
+          {
+            "category": "Yellow Cards",
+            "section": "Defense",
+            "home": {
+              "value": 4
+            },
+            "away": {
+              "value": 3
+            }
+          },
+          {
+            "category": "Red Cards",
+            "section": "Defense",
+            "home": {
+              "value": 0
+            },
+            "away": {
+              "value": 0
+            }
+          },
+          {
+            "category": "Fouls",
+            "section": "Defense",
+            "home": {
+              "value": 10
+            },
+            "away": {
+              "value": 16
+            }
+          },
+          {
+            "category": "Tackles",
+            "section": "Defense",
+            "home": {
+              "percentage": 83,
+              "successful": 10,
+              "total": 12
+            },
+            "away": {
+              "percentage": 44,
+              "successful": 7,
+              "total": 16
+            }
+          },
+          {
+            "category": "Duels won",
+            "section": "Defense",
+            "home": {
+              "value": 52
+            },
+            "away": {
+              "value": 44
+            }
+          },
+          {
+            "category": "Clearances",
+            "section": "Defense",
+            "home": {
+              "value": 26
+            },
+            "away": {
+              "value": 48
+            }
+          },
+          {
+            "category": "Interceptions",
+            "section": "Defense",
+            "home": {
+              "value": 13
+            },
+            "away": {
+              "value": 5
+            }
+          },
+          {
+            "category": "Errors leading to shot",
+            "section": "Defense",
+            "home": {
+              "value": 0
+            },
+            "away": {
+              "value": 1
+            }
+          },
+          {
+            "category": "Errors leading to goal",
+            "section": "Defense",
+            "home": {
+              "value": 0
+            },
+            "away": {
+              "value": 1
+            }
+          },
+          {
+            "category": "Goalkeeper Saves",
+            "section": "Goalkeeping",
+            "home": {
+              "value": 3
+            },
+            "away": {
+              "value": 3
+            }
+          },
+          {
+            "category": "xGOT faced",
+            "section": "Goalkeeping",
+            "home": {
+              "value": 1.2
+            },
+            "away": {
+              "value": 1.27
+            }
+          },
+          {
+            "category": "Goals prevented",
+            "section": "Goalkeeping",
+            "home": {
+              "value": 0.2
+            },
+            "away": {
+              "value": 0.27
+            }
+          }
+        ],
+        "firstHalf": [
+          {
+            "category": "Expected Goals (xG)",
+            "section": "Shots",
+            "home": {
+              "value": 0.17
+            },
+            "away": {
+              "value": 0.59
+            }
+          },
+          {
+            "category": "xG on target (xGOT)",
+            "section": "Shots",
+            "home": {
+              "value": 0.07
+            },
+            "away": {
+              "value": 1.06
+            }
+          },
+          {
+            "category": "Total shots",
+            "section": "Shots",
+            "home": {
+              "value": 5
+            },
+            "away": {
+              "value": 8
+            }
+          },
+          {
+            "category": "Shots on target",
+            "section": "Shots",
+            "home": {
+              "value": 1
+            },
+            "away": {
+              "value": 3
+            }
+          },
+          {
+            "category": "Shots off target",
+            "section": "Shots",
+            "home": {
+              "value": 2
+            },
+            "away": {
+              "value": 4
+            }
+          },
+          {
+            "category": "Blocked Shots",
+            "section": "Shots",
+            "home": {
+              "value": 2
+            },
+            "away": {
+              "value": 1
+            }
+          },
+          {
+            "category": "Shots inside the Box",
+            "section": "Shots",
+            "home": {
+              "value": 2
+            },
+            "away": {
+              "value": 6
+            }
+          },
+          {
+            "category": "Shots outside the Box",
+            "section": "Shots",
+            "home": {
+              "value": 3
+            },
+            "away": {
+              "value": 2
+            }
+          },
+          {
+            "category": "Hit the Woodwork",
+            "section": "Shots",
+            "home": {
+              "value": 0
+            },
+            "away": {
+              "value": 0
+            }
+          },
+          {
+            "category": "Headed Goals",
+            "section": "Shots",
+            "home": {
+              "value": 0
+            },
+            "away": {
+              "value": 0
+            }
+          },
+          {
+            "category": "Big Chances",
+            "section": "Attack",
+            "home": {
+              "value": 0
+            },
+            "away": {
+              "value": 0
+            }
+          },
+          {
+            "category": "Corner Kicks",
+            "section": "Attack",
+            "home": {
+              "value": 1
+            },
+            "away": {
+              "value": 4
+            }
+          },
+          {
+            "category": "Touches in opposition box",
+            "section": "Attack",
+            "home": {
+              "value": 5
+            },
+            "away": {
+              "value": 17
+            }
+          },
+          {
+            "category": "Accurate through passes",
+            "section": "Attack",
+            "home": {
+              "value": 0
+            },
+            "away": {
+              "value": 1
+            }
+          },
+          {
+            "category": "Offsides",
+            "section": "Attack",
+            "home": {
+              "value": 1
+            },
+            "away": {
+              "value": 1
+            }
+          },
+          {
+            "category": "Free Kicks",
+            "section": "Attack",
+            "home": {
+              "value": 8
+            },
+            "away": {
+              "value": 5
+            }
+          },
+          {
+            "category": "Ball Possession",
+            "section": "Passes",
+            "home": {
+              "percentage": 66
+            },
+            "away": {
+              "percentage": 34
+            }
+          },
+          {
+            "category": "Passes",
+            "section": "Passes",
+            "home": {
+              "percentage": 82,
+              "successful": 161,
+              "total": 197
+            },
+            "away": {
+              "percentage": 68,
+              "successful": 67,
+              "total": 99
+            }
+          },
+          {
+            "category": "Long passes",
+            "section": "Passes",
+            "home": {
+              "percentage": 52,
+              "successful": 15,
+              "total": 29
+            },
+            "away": {
+              "percentage": 30,
+              "successful": 7,
+              "total": 23
+            }
+          },
+          {
+            "category": "Passes in final third",
+            "section": "Passes",
+            "home": {
+              "percentage": 59,
+              "successful": 27,
+              "total": 46
+            },
+            "away": {
+              "percentage": 53,
+              "successful": 17,
+              "total": 32
+            }
+          },
+          {
+            "category": "Crosses",
+            "section": "Passes",
+            "home": {
+              "percentage": 17,
+              "successful": 1,
+              "total": 6
+            },
+            "away": {
+              "percentage": 40,
+              "successful": 2,
+              "total": 5
+            }
+          },
+          {
+            "category": "Expected assists (xA)",
+            "section": "Passes",
+            "home": {
+              "value": 0.12
+            },
+            "away": {
+              "value": 0.45
+            }
+          },
+          {
+            "category": "Throw-ins",
+            "section": "Passes",
+            "home": {
+              "value": 9
+            },
+            "away": {
+              "value": 14
+            }
+          },
+          {
+            "category": "Yellow Cards",
+            "section": "Defense",
+            "home": {
+              "value": 2
+            },
+            "away": {
+              "value": 0
+            }
+          },
+          {
+            "category": "Red Cards",
+            "section": "Defense",
+            "home": {
+              "value": 0
+            },
+            "away": {
+              "value": 0
+            }
+          },
+          {
+            "category": "Fouls",
+            "section": "Defense",
+            "home": {
+              "value": 5
+            },
+            "away": {
+              "value": 8
+            }
+          },
+          {
+            "category": "Tackles",
+            "section": "Defense",
+            "home": {
+              "percentage": 75,
+              "successful": 6,
+              "total": 8
+            },
+            "away": {
+              "percentage": 25,
+              "successful": 3,
+              "total": 12
+            }
+          },
+          {
+            "category": "Duels won",
+            "section": "Defense",
+            "home": {
+              "value": 28
+            },
+            "away": {
+              "value": 24
+            }
+          },
+          {
+            "category": "Clearances",
+            "section": "Defense",
+            "home": {
+              "value": 10
+            },
+            "away": {
+              "value": 14
+            }
+          },
+          {
+            "category": "Interceptions",
+            "section": "Defense",
+            "home": {
+              "value": 8
+            },
+            "away": {
+              "value": 3
+            }
+          },
+          {
+            "category": "Errors leading to shot",
+            "section": "Defense",
+            "home": {
+              "value": 0
+            },
+            "away": {
+              "value": 0
+            }
+          },
+          {
+            "category": "Errors leading to goal",
+            "section": "Defense",
+            "home": {
+              "value": 0
+            },
+            "away": {
+              "value": 0
+            }
+          },
+          {
+            "category": "Goalkeeper Saves",
+            "section": "Goalkeeping",
+            "home": {
+              "value": 2
+            },
+            "away": {
+              "value": 1
+            }
+          },
+          {
+            "category": "xGOT faced",
+            "section": "Goalkeeping",
+            "home": {
+              "value": 1.06
+            },
+            "away": {
+              "value": 0.07
+            }
+          },
+          {
+            "category": "Goals prevented",
+            "section": "Goalkeeping",
+            "home": {
+              "value": 0.06
+            },
+            "away": {
+              "value": 0.07
+            }
+          }
+        ],
+        "secondHalf": [
+          {
+            "category": "Expected Goals (xG)",
+            "section": "Shots",
+            "home": {
+              "value": 0.75
+            },
+            "away": {
+              "value": 0.25
+            }
+          },
+          {
+            "category": "xG on target (xGOT)",
+            "section": "Shots",
+            "home": {
+              "value": 1.2
+            },
+            "away": {
+              "value": 0.14
+            }
+          },
+          {
+            "category": "Total shots",
+            "section": "Shots",
+            "home": {
+              "value": 12
+            },
+            "away": {
+              "value": 4
+            }
+          },
+          {
+            "category": "Shots on target",
+            "section": "Shots",
+            "home": {
+              "value": 3
+            },
+            "away": {
+              "value": 1
+            }
+          },
+          {
+            "category": "Shots off target",
+            "section": "Shots",
+            "home": {
+              "value": 4
+            },
+            "away": {
+              "value": 2
+            }
+          },
+          {
+            "category": "Blocked Shots",
+            "section": "Shots",
+            "home": {
+              "value": 5
+            },
+            "away": {
+              "value": 1
+            }
+          },
+          {
+            "category": "Shots inside the Box",
+            "section": "Shots",
+            "home": {
+              "value": 9
+            },
+            "away": {
+              "value": 3
+            }
+          },
+          {
+            "category": "Shots outside the Box",
+            "section": "Shots",
+            "home": {
+              "value": 3
+            },
+            "away": {
+              "value": 1
+            }
+          },
+          {
+            "category": "Hit the Woodwork",
+            "section": "Shots",
+            "home": {
+              "value": 0
+            },
+            "away": {
+              "value": 0
+            }
+          },
+          {
+            "category": "Headed Goals",
+            "section": "Shots",
+            "home": {
+              "value": 0
+            },
+            "away": {
+              "value": 0
+            }
+          },
+          {
+            "category": "Big Chances",
+            "section": "Attack",
+            "home": {
+              "value": 0
+            },
+            "away": {
+              "value": 0
+            }
+          },
+          {
+            "category": "Corner Kicks",
+            "section": "Attack",
+            "home": {
+              "value": 9
+            },
+            "away": {
+              "value": 1
+            }
+          },
+          {
+            "category": "Touches in opposition box",
+            "section": "Attack",
+            "home": {
+              "value": 18
+            },
+            "away": {
+              "value": 6
+            }
+          },
+          {
+            "category": "Accurate through passes",
+            "section": "Attack",
+            "home": {
+              "value": 0
+            },
+            "away": {
+              "value": 0
+            }
+          },
+          {
+            "category": "Offsides",
+            "section": "Attack",
+            "home": {
+              "value": 1
+            },
+            "away": {
+              "value": 1
+            }
+          },
+          {
+            "category": "Free Kicks",
+            "section": "Attack",
+            "home": {
+              "value": 8
+            },
+            "away": {
+              "value": 5
+            }
+          },
+          {
+            "category": "Ball Possession",
+            "section": "Passes",
+            "home": {
+              "percentage": 64
+            },
+            "away": {
+              "percentage": 36
+            }
+          },
+          {
+            "category": "Passes",
+            "section": "Passes",
+            "home": {
+              "percentage": 79,
+              "successful": 153,
+              "total": 194
+            },
+            "away": {
+              "percentage": 61,
+              "successful": 70,
+              "total": 114
+            }
+          },
+          {
+            "category": "Long passes",
+            "section": "Passes",
+            "home": {
+              "percentage": 37,
+              "successful": 10,
+              "total": 27
+            },
+            "away": {
+              "percentage": 11,
+              "successful": 3,
+              "total": 27
+            }
+          },
+          {
+            "category": "Passes in final third",
+            "section": "Passes",
+            "home": {
+              "percentage": 68,
+              "successful": 36,
+              "total": 53
+            },
+            "away": {
+              "percentage": 52,
+              "successful": 26,
+              "total": 50
+            }
+          },
+          {
+            "category": "Crosses",
+            "section": "Passes",
+            "home": {
+              "percentage": 5,
+              "successful": 1,
+              "total": 19
+            },
+            "away": {
+              "percentage": 17,
+              "successful": 1,
+              "total": 6
+            }
+          },
+          {
+            "category": "Expected assists (xA)",
+            "section": "Passes",
+            "home": {
+              "value": 0.45
+            },
+            "away": {
+              "value": 0.15
+            }
+          },
+          {
+            "category": "Throw-ins",
+            "section": "Passes",
+            "home": {
+              "value": 12
+            },
+            "away": {
+              "value": 12
+            }
+          },
+          {
+            "category": "Yellow Cards",
+            "section": "Defense",
+            "home": {
+              "value": 2
+            },
+            "away": {
+              "value": 3
+            }
+          },
+          {
+            "category": "Red Cards",
+            "section": "Defense",
+            "home": {
+              "value": 0
+            },
+            "away": {
+              "value": 0
+            }
+          },
+          {
+            "category": "Fouls",
+            "section": "Defense",
+            "home": {
+              "value": 5
+            },
+            "away": {
+              "value": 8
+            }
+          },
+          {
+            "category": "Tackles",
+            "section": "Defense",
+            "home": {
+              "percentage": 100,
+              "successful": 4,
+              "total": 4
+            },
+            "away": {
+              "percentage": 100,
+              "successful": 4,
+              "total": 4
+            }
+          },
+          {
+            "category": "Duels won",
+            "section": "Defense",
+            "home": {
+              "value": 24
+            },
+            "away": {
+              "value": 20
+            }
+          },
+          {
+            "category": "Clearances",
+            "section": "Defense",
+            "home": {
+              "value": 16
+            },
+            "away": {
+              "value": 34
+            }
+          },
+          {
+            "category": "Interceptions",
+            "section": "Defense",
+            "home": {
+              "value": 5
+            },
+            "away": {
+              "value": 2
+            }
+          },
+          {
+            "category": "Errors leading to shot",
+            "section": "Defense",
+            "home": {
+              "value": 0
+            },
+            "away": {
+              "value": 1
+            }
+          },
+          {
+            "category": "Errors leading to goal",
+            "section": "Defense",
+            "home": {
+              "value": 0
+            },
+            "away": {
+              "value": 1
+            }
+          },
+          {
+            "category": "Goalkeeper Saves",
+            "section": "Goalkeeping",
+            "home": {
+              "value": 1
+            },
+            "away": {
+              "value": 2
+            }
+          },
+          {
+            "category": "xGOT faced",
+            "section": "Goalkeeping",
+            "home": {
+              "value": 0.14
+            },
+            "away": {
+              "value": 1.2
+            }
+          },
+          {
+            "category": "Goals prevented",
+            "section": "Goalkeeping",
+            "home": {
+              "value": 0.14
+            },
+            "away": {
+              "value": 0.2
+            }
+          }
+        ]
+      }
